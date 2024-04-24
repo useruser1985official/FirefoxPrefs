@@ -393,6 +393,7 @@ user_pref("services.sync.tabs.lastSyncLocal", "0");
 user_pref("signed.applets.codebase_principal_support", true);
 user_pref("signon.importedFromSqlite", true);
 user_pref("signon.rememberSignons", false);
+user_pref("spellchecker.dictionary", "pt-BR");
 user_pref("storage.vacuum.last.index", 0);
 user_pref("storage.vacuum.last.places.sqlite", 1559680420);
 user_pref("toolkit.cosmeticAnimations.enabled", false);
